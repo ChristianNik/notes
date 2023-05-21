@@ -16,3 +16,8 @@ New command:
 
 `sudo mount -t cifs -o credentials=/home/christian/.smbcredentials,uid=1000,gid=1000 //xxx.xxx.xxx.xxx/home /mnt/nas`
 
+
+## Paperless-ngx
+
+[How to Setup](https://mariushosting.com/how-to-install-paperless-ngx-on-your-synology-nas/)
+
